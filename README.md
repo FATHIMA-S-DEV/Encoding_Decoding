@@ -1,4 +1,5 @@
-🔐 EncodePro - Advanced Encoding & Decoding Tools
+bash
+#🔐 EncodePro - Advanced Encoding & Decoding Tools
 
 ![Screenshot (390)](https://github.com/user-attachments/assets/2e28a3d8-a0ef-43ca-aed9-73bc3825fc2c)
 
@@ -33,32 +34,7 @@ Enter your text in the input field
 Select the desired conversion type from the options
 Click the "Convert" button to see the result
 Use the "Copy" button to copy the result to your clipboard
-📋 Project Structure
-project/
-├── src/
-│   ├── types/
-│   │   └── index.ts
-│   ├── utils/
-│   │   ├── clipboard.ts
-│   │   ├── encoding.ts
-│   │   ├── hash.ts
-│   │   └── toolsData.ts
-│   ├── components/
-│   │   ├── Header.tsx
-│   │   └── Footer.tsx
-│   └── main.tsx
-├── public/
-│   └── favicon.svg
-├── index.html
-├── index.css
-├── App.tsx
-├── vite.config.ts
-├── tsconfig.json
-├── package.json
-├── package-lock.json
-├── postcss.config.js
-├── tailwind.config.js
-└── eslint.config.js
+
 📦 Core Components
 HashGeneratorForm.tsx: Handles generation of various hash formats
 Header.tsx: Application header component
