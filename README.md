@@ -8,9 +8,10 @@ EncodePro is a comprehensive web application that provides powerful tools for en
 Overview
 EncodePro is a comprehensive and advanced web application offering a variety of encoding and decoding tools for text, binary, images, and more. Perfect for developers, cybersecurity enthusiasts, and students learning about data encoding and encryption.
 
-Live Demo
+# Live Demo 
+https://sparkling-cassata-bded18.netlify.app/
 
-✨ Features
+# ✨ Features
 Text to Binary Conversion: Convert plain text to binary format
 Binary to Text Conversion: Decode binary back to readable text
 Text to Hexadecimal Conversion: Convert plain text to hexadecimal format
@@ -29,33 +30,7 @@ Development Tools:
 ESLint for code quality
 PostCSS for CSS processing
 TypeScript for type safety
-📋 Project Structure
-project/
-├── src/
-│   ├── types/
-│   │   └── index.ts
-│   ├── utils/
-│   │   ├── clipboard.ts
-│   │   ├── encoding.ts
-│   │   ├── hash.ts
-│   │   └── toolsData.ts
-│   ├── components/
-│   │   ├── Header.tsx
-│   │   └── Footer.tsx
-│   └── main.tsx
-├── public/
-│   └── favicon.svg
-├── index.html
-├── index.css
-├── App.tsx
-├── vite.config.ts
-├── tsconfig.json
-├── package.json
-├── package-lock.json
-├── postcss.config.js
-├── tailwind.config.js
-└── eslint.config.js
-📦 Core Components
+# 📦 Core Components
 HashGeneratorForm.tsx: Handles generation of various hash formats
 Header.tsx: Application header component
 Footer.tsx: Application footer component
