@@ -1,5 +1,6 @@
 🔐 Encoding & Decoding Tool
-![Screenshot (390)](https://github.com/user-attachments/assets/dd704a54-376b-42d4-a397-590747f508dd)
+
+![Screenshot (390)](https://github.com/user-attachments/assets/ad15dc01-a449-428e-b049-ea6a115f217b)
 
 Overview
 A powerful and user-friendly text conversion tool that allows you to encode and decode text between different formats including binary, hexadecimal, and plain text. Perfect for developers, cybersecurity enthusiasts, and students learning about data encoding.
