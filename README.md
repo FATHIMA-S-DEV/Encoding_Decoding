@@ -1,5 +1,4 @@
-bash
-#🔐 EncodePro - Advanced Encoding & Decoding Tools
+# 🔐EncodePro - Advanced Encoding & Decoding Tools
 
 ![Screenshot (390)](https://github.com/user-attachments/assets/2e28a3d8-a0ef-43ca-aed9-73bc3825fc2c)
 
