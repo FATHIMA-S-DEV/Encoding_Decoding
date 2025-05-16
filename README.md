@@ -1,7 +1,9 @@
 # 🔐EncodePro - Advanced Encoding & Decoding Tools
+![Screenshot (390)](https://github.com/user-attachments/assets/f43b8a4f-0d0d-4c46-a0ed-4fe909f9f439)
 
-![Screenshot (390)](https://github.com/user-attachments/assets/2e28a3d8-a0ef-43ca-aed9-73bc3825fc2c)
 
+Project Description
+EncodePro is a comprehensive web application that provides powerful tools for encoding, decoding, and hashing operations. Built with modern web technologies, it offers an intuitive interface for developers, cybersecurity professionals, and students to work with various data formats.
 
 Overview
 EncodePro is a comprehensive and advanced web application offering a variety of encoding and decoding tools for text, binary, images, and more. Perfect for developers, cybersecurity enthusiasts, and students learning about data encoding and encryption.
@@ -27,13 +29,32 @@ Development Tools:
 ESLint for code quality
 PostCSS for CSS processing
 TypeScript for type safety
-📋 How to Use
-Visit the live demo
-Enter your text in the input field
-Select the desired conversion type from the options
-Click the "Convert" button to see the result
-Use the "Copy" button to copy the result to your clipboard
-
+📋 Project Structure
+project/
+├── src/
+│   ├── types/
+│   │   └── index.ts
+│   ├── utils/
+│   │   ├── clipboard.ts
+│   │   ├── encoding.ts
+│   │   ├── hash.ts
+│   │   └── toolsData.ts
+│   ├── components/
+│   │   ├── Header.tsx
+│   │   └── Footer.tsx
+│   └── main.tsx
+├── public/
+│   └── favicon.svg
+├── index.html
+├── index.css
+├── App.tsx
+├── vite.config.ts
+├── tsconfig.json
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── tailwind.config.js
+└── eslint.config.js
 📦 Core Components
 HashGeneratorForm.tsx: Handles generation of various hash formats
 Header.tsx: Application header component
@@ -43,6 +64,12 @@ encoding.ts: Core encoding/decoding logic
 hash.ts: Hash generation utilities
 clipboard.ts: Copy-to-clipboard functionality
 toolsData.ts: Configuration for various tools
+📋 How to Use
+Visit the live demo
+Enter your text in the input field
+Select the desired conversion type from the options
+Click the "Convert" button to see the result
+Use the "Copy" button to copy the result to your clipboard
 🖥️ Local Development
 To run this project locally:
 
@@ -65,6 +92,10 @@ npm run build
 
 # Preview the production build
 npm run preview
+📸 Screenshots
+
+![Screenshot (392)](https://github.com/user-attachments/assets/be3ac2fb-3f88-4d58-a8e7-9d85db0c2bfa)
+
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
